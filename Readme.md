@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-<a href="https://github.com/ghost1372">
-<img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMehrdoost" />
+<a href="https://github.com/MohammadMehrdoost">
+<img width="100%"height="20%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMehrdoost" />
 </a>
 </p>
