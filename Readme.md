@@ -9,8 +9,9 @@
 - :technologist: I love `web Design`
 - 📫 Connect with me:
 - 	📧 Email: m.mehrdoost2002@gmail.com
-<p align="center">
+/*<p align="center">
 <a href="https://github.com/MohammadMehrdoost">
 <img width="50%" height="20%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMehrdoost" />
 </a>
-</p>	
+</p>
+/*
