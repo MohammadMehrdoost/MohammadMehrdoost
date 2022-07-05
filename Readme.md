@@ -6,13 +6,13 @@
 
 ## :sassy_man:  About me
 - :school: I am a `Junior` at Faculty of Computers & Informatics at Mohajer University
-- :technologist: I love using Software as a solution for every `Problem`
+- :technologist: I love 'Web Design'
 - :computer: I am a competitive programmer mainly at `Codeforces`
 - :student: I’m currently learning: `Java` and `Spring`.
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d).
 - :nerd_face: Always `learning new things`
 - 📫 Connect with me:
-- 	📧 Email: mahdikarimi422@gmail.com
+- 	📧 Email: m.mehrdoost2002@gmail.com
 <br>
 
 
