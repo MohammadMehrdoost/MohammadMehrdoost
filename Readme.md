@@ -1,6 +1,15 @@
-<h1 align="center">Hi 👋, I'm Mohammad Mehrdoost</h1>
-<h3 align="center">A frontend developer from Iran</h3>
+<h1 align="center">Hello , I'm Mohammad Mehrdoost <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=MohammadMehrdoost&label=Profile%20views&color=0e75b6&style=plastic" alt="7oSkaaa" /> 
+</p>
 
+
+## :sassy_man:  About me
+- :school: I am a `Junior` at Faculty of Computers & Informatics at Mohajer University
+- :technologist: I love `web Design`
+- 📫 Connect with me:
+- 	📧 Email: m.mehrdoost2002@gmail.com
+- 	
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohammad-mehrdoost-73318a1b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-mehrdoost-73318a1b7" height="30" width="40" /></a>
