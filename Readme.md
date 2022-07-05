@@ -1,11 +1,3 @@
-Hi , I'm Mohammad Mehrdoost
-
-💁‍♂️ About me
-
-🏫 I am a Junior at Faculty of Computers & Informatics at Mohajer University
-
-🤓 Always learning new things
-
-📫 Connect with me:
-
-📧 Email: m.mehrdoost2002@gmail.com
+<a href="https://github.com/ghost1372">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost1372" />
+</a>
