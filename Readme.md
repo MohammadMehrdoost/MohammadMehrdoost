@@ -13,6 +13,6 @@
 
 <p align="center">
 <a href="https://github.com/MohammadMehrdoost">
-<img width="100%" height="20%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMehrdoost" />
+<img width="50%" height="20%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMehrdoost" />
 </a>
 </p>
