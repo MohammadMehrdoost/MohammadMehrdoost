@@ -8,5 +8,9 @@
 - :school: I am a `Junior` at Faculty of Computers & Informatics at Mohajer University
 - :technologist: I love `web Design`
 - 📫 Connect with me:
-- 	📧 Email: m.mehrdoost2002@gmail.com
+- 	  Email: m.mehrdoost2002@gmail.com
+- 	  whatsapp: +989308962799
+- 	  telegram: @Mohammad_Mehrdoost
+
+
 
