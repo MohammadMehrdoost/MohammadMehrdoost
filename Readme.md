@@ -1,5 +1,4 @@
-<h1 align="center">Hello , I'm Mohammad Mehrdoost <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-	<p><a href="https://giphy.com/gifs/watch-apple-alle-AWNxDbtHGIJDW">via GIPHY</a></p> :wink: </h1>
+<h1 align="center">Hello , I'm Mohammad Mehrdoost <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">:wink: </h1>
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=MohammadMehrdoost&label=Profile%20views&color=0e75b6&style=plastic" alt="7oSkaaa" /> 
 </p>
