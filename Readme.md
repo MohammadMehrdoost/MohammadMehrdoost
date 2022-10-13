@@ -10,7 +10,9 @@
 - 📫 Connect with me:
 -	Email: m.mehrdoost2002@gmail.com
 -	whatsapp: +989308962799
--	telegram: @Mohammad_Mehrdoost
+-	telegram: @Mohammad_Mehrdoost.
+-	instagram: @Mohammad_Mehrdoost_pv
+
 
 
 
